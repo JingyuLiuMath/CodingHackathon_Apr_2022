@@ -1,6 +1,6 @@
 # CodingHackathon_Apr_2022
 
-这篇 markdown 用于整理题目, 带 ? 表示未做出的题目
+这篇 markdown 用于整理题目, 带 ? 表示未做出的题目, 带 * 表示有趣的题目.
 
 ## April 3
 
@@ -50,7 +50,7 @@
 
 6. <https://leetcode-cn.com/problems/pascals-triangle-ii/>
 
-7. <https://leetcode-cn.com/problems/single-number/>
+7. *<https://leetcode-cn.com/problems/single-number/>
 
 8. <https://leetcode-cn.com/problems/missing-number/>
 
