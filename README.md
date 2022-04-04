@@ -1,6 +1,6 @@
 # CodingHackathon_Apr_2022
 
-这篇 markdown 用于整理题目, 带 ? 表示未做出的题目, 带 * 表示有趣的题目.
+这篇 markdown 用于整理题目, 带 ? 表示未做出或未做的题目, 带 * 表示有趣的题目
 
 ## April 3
 
@@ -60,17 +60,17 @@
 
 #### Medium (7 problems)
 
-1. <https://leetcode-cn.com/problems/maximum-subarray/>
+1. *<https://leetcode-cn.com/problems/maximum-subarray/>
 
 2. <https://leetcode-cn.com/problems/two-sum/>
 
-3. <https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/>
+3. *<https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/>
 
 4. <https://leetcode-cn.com/problems/contains-duplicate/>
 
-5. <https://leetcode-cn.com/problems/contains-duplicate-ii/>
+5. *<https://leetcode-cn.com/problems/contains-duplicate-ii/>
 
-6. <https://leetcode-cn.com/problems/container-with-most-water/>
+6. ?<https://leetcode-cn.com/problems/container-with-most-water/>
 
 7. <https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/>
 
@@ -106,7 +106,7 @@
 
 7. <https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/>
 
-### General Practice (9 problems)
+### ?General Practice (9 problems)
 
 1. <https://leetcode-cn.com/problems/summary-ranges/>
 
