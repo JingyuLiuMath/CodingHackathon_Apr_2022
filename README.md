@@ -106,7 +106,7 @@
 
 7. <https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/>
 
-### ?General Practice (9 problems)
+### General Practice (9 problems)
 
 1. <https://leetcode-cn.com/problems/summary-ranges/>
 
