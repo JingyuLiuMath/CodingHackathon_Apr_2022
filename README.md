@@ -1,10 +1,10 @@
 # CodingHackathon_Apr_2022
 
-这篇 markdown 用于整理题目, 带 ? 表示未做出或未做的题目, 带 * 表示有趣的题目
+这篇 markdown 用于整理题目, 带 ? 表示未做出或未做的题目, 带 (*interesting*) 表示有趣的题目
 
-## April 3
+## April 3 (50 Problems)
 
-### For & While Loop
+### For & While Loop (8 Problems)
 
 #### Easy (4 problems)
 
@@ -34,7 +34,7 @@
 
 3. <https://leetcode-cn.com/problems/hanota-lcci/>
 
-### Python List
+### Python List (17 Problems)
 
 #### Easy (10 problems)
 
@@ -50,7 +50,7 @@
 
 6. <https://leetcode-cn.com/problems/pascals-triangle-ii/>
 
-7. *<https://leetcode-cn.com/problems/single-number/>
+7. (*interesting*) <https://leetcode-cn.com/problems/single-number/>
 
 8. <https://leetcode-cn.com/problems/missing-number/>
 
@@ -60,21 +60,21 @@
 
 #### Medium (7 problems)
 
-1. *<https://leetcode-cn.com/problems/maximum-subarray/>
+1. (*interesting*) <https://leetcode-cn.com/problems/maximum-subarray/>
 
 2. <https://leetcode-cn.com/problems/two-sum/>
 
-3. *<https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/>
+3. (*interesting*) <https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/>
 
 4. <https://leetcode-cn.com/problems/contains-duplicate/>
 
-5. *<https://leetcode-cn.com/problems/contains-duplicate-ii/>
+5. (*interesting*) <https://leetcode-cn.com/problems/contains-duplicate-ii/>
 
-6. *<https://leetcode-cn.com/problems/container-with-most-water/>
+6. (*interesting*) <https://leetcode-cn.com/problems/container-with-most-water/>
 
 7. <https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/>
 
-### Python String
+### Python String (13 Problems)
 
 #### Easy (6 problems)
 
@@ -127,3 +127,65 @@
 9. <https://leetcode-cn.com/problems/find-the-town-judge/>
 
 ## April 5
+
+### OOP (10 Problems)
+
+#### Easy (4 Problems)
+
+1. <https://leetcode-cn.com/problems/design-parking-system/>
+
+2. <https://leetcode-cn.com/problems/simple-bank-system/>
+
+3. (*interesting*) <https://leetcode-cn.com/problems/peeking-iterator/>
+
+4. <https://leetcode-cn.com/problems/design-authentication-manager/>
+
+#### Medium (4 Problems)
+
+1. (*interesting*) <https://leetcode-cn.com/problems/range-sum-query-immutable/>
+
+2. ? (*interesting*) <https://leetcode-cn.com/problems/range-sum-query-mutable/>
+
+3. <https://leetcode-cn.com/problems/design-browser-history/>
+
+4. <https://leetcode-cn.com/problems/apply-discount-every-n-orders/>
+
+#### Hard (2 Problems)
+
+1. <https://leetcode-cn.com/problems/my-calendar-i/>
+
+2. <https://leetcode-cn.com/problems/design-twitter/>
+
+### List & Array (10 Problems)
+
+#### 1D Array (5 Problems)
+
+1. <https://leetcode-cn.com/problems/number-of-students-doing-homework-at-a-given-time/>
+
+2. <https://leetcode-cn.com/problems/maximum-number-of-words-found-in-sentences/>
+
+3. <https://leetcode-cn.com/problems/time-needed-to-buy-tickets/>
+
+4. <https://leetcode-cn.com/problems/minimum-number-of-moves-to-seat-everyone/>
+
+5. <https://leetcode-cn.com/problems/qIsx9U/>
+
+#### 2D Array (5 Problems)
+
+1. <https://leetcode-cn.com/problems/richest-customer-wealth/>
+
+2. <https://leetcode-cn.com/problems/subrectangle-queries/>
+
+3. <https://leetcode-cn.com/problems/toeplitz-matrix/>
+
+4. <https://leetcode-cn.com/problems/tic-tac-toe-lcci/>
+
+5. <https://leetcode-cn.com/problems/game-of-life/>
+
+### Stack & Queue (10 Problems)
+
+#### Easy (3 Problems)
+
+#### Medium (4 Problems)
+
+#### Hard (3 Problems)
