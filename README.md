@@ -126,7 +126,7 @@
 
 9. <https://leetcode-cn.com/problems/find-the-town-judge/>
 
-## April 5
+## April 5 (30 Problems)
 
 ### OOP (10 Problems)
 
@@ -186,6 +186,26 @@
 
 #### Easy (3 Problems)
 
+1. (*interesting*) <https://leetcode-cn.com/problems/min-stack/>
+
+2. <https://leetcode-cn.com/problems/design-circular-queue/>
+
+3. <https://leetcode-cn.com/problems/number-of-recent-calls/>
+
 #### Medium (4 Problems)
 
+1. <https://leetcode-cn.com/problems/implement-stack-using-queues/>
+
+2. <https://leetcode-cn.com/problems/implement-queue-using-stacks/>
+
+3. <https://leetcode-cn.com/problems/flood-fill/>
+
+4. (*interesting*) <https://leetcode-cn.com/problems/decode-string/>
+
 #### Hard (3 Problems)
+
+1. <https://leetcode-cn.com/problems/number-of-islands/>
+
+2. <https://leetcode-cn.com/problems/max-area-of-island/>
+
+3. <https://leetcode-cn.com/problems/rotting-oranges/>
