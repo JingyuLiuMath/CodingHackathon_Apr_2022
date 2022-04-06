@@ -144,7 +144,7 @@
 
 1. (*interesting*) <https://leetcode-cn.com/problems/range-sum-query-immutable/>
 
-2. ? (*interesting*) <https://leetcode-cn.com/problems/range-sum-query-mutable/>
+2. (*interesting*) <https://leetcode-cn.com/problems/range-sum-query-mutable/>
 
 3. <https://leetcode-cn.com/problems/design-browser-history/>
 
