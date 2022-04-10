@@ -209,3 +209,33 @@
 2. <https://leetcode-cn.com/problems/max-area-of-island/>
 
 3. <https://leetcode-cn.com/problems/rotting-oranges/>
+
+## April 10 (10 Problems)
+
+### Range Sum Query (2 Problems)
+
+1. <https://leetcode-cn.com/problems/range-sum-query-mutable/> (重复)
+
+1. <https://leetcode-cn.com/problems/range-sum-query-2d-immutable/>
+
+### Maze (1 Problem)
+
+1. <https://leetcode-cn.com/problems/nearest-exit-from-entrance-in-maze/>
+
+### Financial (4 Problems)
+
+1. (*interesting*) <https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/>
+
+2. (*interesting*) <https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/>
+
+3. (*interesting*) <https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/>
+
+4. (*interesting*) <https://leetcode-cn.com/problems/ipo/>
+
+### Calculator (3 Problems)
+
+1. (*interesting*) <https://leetcode-cn.com/problems/basic-calculator/>
+
+2. (*interesting*) <https://leetcode-cn.com/problems/basic-calculator-ii/>
+
+3. ? (*interesting*) <https://leetcode-cn.com/problems/basic-calculator-iv/>
